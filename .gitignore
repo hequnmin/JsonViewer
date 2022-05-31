@@ -1,0 +1,13 @@
+
+
+.vs/
+
+Fiddler/obj/
+JsonView/bin/
+JsonView/obj/
+JsonViewer/bin/
+JsonViewer/obj/
+packages/
+Visualizer/bin/
+Visualizer/obj/
+
